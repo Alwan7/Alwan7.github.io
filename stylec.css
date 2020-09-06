@@ -1,0 +1,40 @@
+body {
+    width: 500px;
+    margin: 20px auto;
+}
+
+li {
+    display: inline-block;
+    padding-right: 25px;
+}
+
+ul {
+    float: right;
+    padding: 20px;
+}
+
+input[type="text"],
+input[type="send"] {
+    width: 95%;
+    margin: 100%inherit;
+    padding: 15px;
+    border-radius: 25px;
+    border: 1px solid purple;
+}
+
+input[type="submit"] {
+    background-color: red;
+    color: black;
+    margin: auto;
+    width: 90px;
+    padding: 9px;
+    float: inherit;
+}
+
+input[type="message"] {
+    height: 100px;
+    width: 350px;
+    padding: 65px;
+    margin: 10px;
+    border-radius: 25px;
+}

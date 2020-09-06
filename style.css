@@ -1,0 +1,134 @@
+                                    * {
+                                        margin: 0;
+                                        padding: 0;
+                                    }
+                                    
+                                    #para {
+                                        padding-bottom: 10px;
+                                        background-color: #f0f0f0;
+                                        float: left;
+                                        height: auto;
+                                        width: 70%;
+                                    }
+                                    
+                                    #header {
+                                        background-color: rgb(146, 68, 218);
+                                        padding: auto;
+                                        margin-bottom: 100px;
+                                        text-align: center;
+                                    }
+                                    
+                                    li {
+                                        display: inline-block;
+                                        padding-right: 25px;
+                                    }
+                                    
+                                    ul {
+                                        float: right;
+                                        padding: 20px;
+                                    }
+                                    
+                                    .text_para {
+                                        text-align: center;
+                                        font-family: Verdana;
+                                        font-size: medium;
+                                        height: 500px;
+                                        width: 100%;
+                                        margin-top: 50px;
+                                    }
+                                    
+                                    #footer {
+                                        color: darkgreen;
+                                        width: auto;
+                                        padding-bottom: 50px;
+                                    }
+                                    
+                                    input[type="text"],
+                                    input[type="Email adress"],
+                                    input[type="submit"] {
+                                        width: 40%;
+                                        margin: 100%inherit;
+                                        padding: 10px;
+                                        border-radius: 15px;
+                                        border: 1px solid purple;
+                                        text-align: center
+                                    }
+                                    
+                                    input[type="submit"] value {
+                                        background-color: green;
+                                        color: white;
+                                        margin: auto;
+                                        width: 100px;
+                                        padding: 10px;
+                                        text-align: center;
+                                    }
+                                    
+                                    form {
+                                        margin: 0 auto;
+                                        width: 450px;
+                                    }
+                                    
+                                    #sideBar {
+                                        border: solid 2px black;
+                                        float: right;
+                                        width: 29%;
+                                    }
+                                    
+                                    .sideBarText {
+                                        margin: 10px;
+                                        text-align: center;
+                                    }
+                                    
+                                    #sideBarImg {
+                                        width: auto;
+                                        padding-top: 285px;
+                                        display: flex;
+                                    }
+                                    
+                                    #paraImg {
+                                        color: chocolate;
+                                        display: block;
+                                        padding-left: 300px;
+                                    }
+                                    /* Style all font awesome icons */
+                                    
+                                    .fa {
+                                        padding: 30px;
+                                        font-size: 30px;
+                                        width: 50px;
+                                        text-align: center;
+                                        text-decoration: none;
+                                        margin-top: 80px;
+                                    }
+                                    /* Add a hover effect if you want */
+                                    
+                                    .fa:hover {
+                                        opacity: 0.9;
+                                    }
+                                    /* Set a specific color for each brand */
+                                    /* Facebook */
+                                    
+                                    .fa-facebook {
+                                        background: #3B5998;
+                                        color: white;
+                                    }
+                                    
+                                    .fb {
+                                        padding-top: 300px;
+                                    }
+                                    
+                                    #sideBarR {
+                                        text-align: center;
+                                        padding-top: 20px;
+                                    }
+                                    
+                                    #portfolioImg {
+                                        margin: auto;
+                                        padding: inherit;
+                                    }
+                                    
+                                    #aboutMe {
+                                        margin: 100px;
+                                        float: right;
+                                        text-align: center;
+                                    }
